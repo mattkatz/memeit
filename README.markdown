@@ -21,3 +21,6 @@ I just want a quick way to produce more dumb jokes quickly.
 
 It's a script. Just copy it somewhere into your PATH.
 I put it into ~/.local/bin, but I also add that to my path using [my personal jumpstart scripts](https://github.com/mattkatz/jumpstart). 
+
+# License
+This is released without warranty to the public domain. Good luck, no refunds!
